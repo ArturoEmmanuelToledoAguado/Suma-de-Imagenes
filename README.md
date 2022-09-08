@@ -1,5 +1,5 @@
 # Introducción
-Se plantea leer 3 tipos de imágenes (Paisajes, Rostros y Cosas de color uniforme), para cada tipo se deben usar 5 imágenes distintas; ampliar las imagenes y usar los 3 métodos de interpolación (**nearest, bilinear y bicubic**), pero antes debemos conocer:
+Se propone sumar dos imágenes distintas, usando tanto la función de matlab como una suma normal, pero antes es necesario saber:
 
 ## ¿Qué es el procesamiento digital de imagenes (PDI)?
 PDI se puede definir como el conjunto de procesamientos que se realizan sobre una imagen digital ya sea para realizar su almacenamiento, transmisión o tratamiento.
